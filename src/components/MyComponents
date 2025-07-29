@@ -1,0 +1,9 @@
+export function FirstComponents() {
+    return <h1>FirstComponents</h1>;
+    console.log("MyComponents loaded!");
+
+}
+
+export function SecondComponents() {
+    return <h1>Heyy Guys!</h1>;
+}

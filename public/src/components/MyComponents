@@ -1,0 +1,7 @@
+export function FirstComponents() {
+    return <h1>FirstComponents</h1>;
+}
+
+export function SecondComponents() {
+    return <h1>SecondComponents</h1>;
+}
